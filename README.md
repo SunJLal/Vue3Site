@@ -1,6 +1,6 @@
 # SL Portfolio
 
-Built using [Vue3](https://vuejs.org/)
+Built using [Vue3](https://vuejs.org/) and [tailwindcss](https://tailwindcss.com/)
 
 ### Demo Link
 
