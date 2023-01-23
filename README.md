@@ -1,4 +1,4 @@
-# SL Portfolio
+# SL Vue3 Site
 
 [![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sl-vue3-site.netlify.app/)
 [![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
